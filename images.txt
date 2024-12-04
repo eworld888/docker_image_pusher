@@ -1,1 +1,1 @@
-centralx/clash-dashboard
+centralx/clash:1.18.0
